@@ -7,7 +7,7 @@
 aaOcean Shader and Deformer by [Amaan Akram][0], ported to Cinema 4D by
 [Niklas Rosenstein][2]. 
 
-Updated to the latest SDK for R20, R21 and S22 by [Kent Barber from Plugins 4D][3]
+Updated to the latest SDK for R20, R21 and S22 by [Kent Barber][3]
 
 ![](screenshot.png)
 
@@ -41,7 +41,7 @@ Updated to the latest SDK for R20, R21 and S22 by [Kent Barber from Plugins 4D][
 [0]: http://www.amaanakram.com/
 [1]: http://www.psd.de/
 [2]: http://niklasrosenstein.com/
-[3]: https://www.plugins4d.com/
+[3]: https://twitter.com/kentbarber
 
 ## Changelog
 
