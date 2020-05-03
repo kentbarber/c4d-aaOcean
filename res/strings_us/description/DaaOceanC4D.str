@@ -23,5 +23,7 @@ STRINGTABLE DaaOceanC4D
   AAOCEANC4D_PMWAVESIZE "Peak Sharpening";
   AAOCEANC4D_JSWPFETCH "JSWP Fetch";
   AAOCEANC4D_SWELL "Swell";
-  AAOCEANC4D_INFOTEXT "Copyright \u00a9 2009-2015 Amaan Akram; Copyright \u00a9 2017 Niklas Rosenstein";
+  AAOCEANC4D_INFOTEXT_1 "Copyright \u00a9 2009-2015 Amaan Akram";
+  AAOCEANC4D_INFOTEXT_2 "Copyright \u00a9 2017 Niklas Rosenstein";
+  AAOCEANC4D_INFOTEXT_3 "Copyright \u00a9 2020 Kent Barber";
 }
