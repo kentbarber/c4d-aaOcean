@@ -11,6 +11,9 @@ Updated to the latest SDK for R20, R21 and S22 by [Kent Barber][3]
 
 ![](screenshot.png)
 
+## Downloads
+Download the plugin for OSX and Windows for R20, R21 and S22 from [Plugins 4D][4]
+
 ## Examples
 
 *by Serge Mustu*
@@ -42,6 +45,7 @@ Updated to the latest SDK for R20, R21 and S22 by [Kent Barber][3]
 [1]: http://www.psd.de/
 [2]: http://niklasrosenstein.com/
 [3]: https://twitter.com/kentbarber
+[4]: https://www.plugins4d.com/gpl-plugins
 
 ## Changelog
 
