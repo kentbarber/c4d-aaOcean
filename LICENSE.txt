@@ -2,8 +2,6 @@ Port of Amaan Akram's aaOcean suite for Cinema 4D.
 Copyright (C) 2017  Niklas Rosenstein
 Copyright (C) 2020  Kent Barber
 
-Source Code can be found here: https://github.com/kentbarber/c4d-aaOcean
-
 This program is free software: you can redistribute it and/or modify
 it under the terms of the GNU General Public License as published by
 the Free Software Foundation, either version 3 of the License, or
