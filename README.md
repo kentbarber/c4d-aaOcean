@@ -47,7 +47,7 @@ Download the plugin for OSX and Windows for R20, R21 and S22 from [Plugins 4D][4
 [1]: http://www.psd.de/
 [2]: http://niklasrosenstein.com/
 [3]: https://twitter.com/kentbarber
-[4]: https://www.plugins4d.com/gpl-plugins
+[4]: https://www.plugins4d.com/Product/aaOcean
 
 ## Changelog
 
