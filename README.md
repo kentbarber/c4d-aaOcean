@@ -14,7 +14,7 @@ Updated to the latest SDK for R20, R21, S22 and R23 by [Kent Barber][3]
 ![](screenshot.png)
 
 ## Downloads
-Download the plugin for OSX and Windows for R20, R21 and S22 from [Plugins 4D][4]
+Download the plugin for OSX and Windows for R20, R21, S22 and R23 from [Plugins 4D][4]
 
 ## Examples
 
@@ -55,7 +55,7 @@ Download the plugin for OSX and Windows for R20, R21 and S22 from [Plugins 4D][4
 - Removed the api bridge code
 - Removed the craftr build system requirement
 - Updated to the new SDK frameworks for R20 onwards
-- Updated to add support for R21 and S22
+- Updated to add support for R21, S22, R23 onwards
 
 ### v1.0.1
 
