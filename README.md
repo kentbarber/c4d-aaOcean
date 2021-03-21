@@ -9,7 +9,7 @@ https://github.com/kentbarber/c4d-aaOcean
 aaOcean Shader and Deformer by [Amaan Akram][0], ported to Cinema 4D by
 [Niklas Rosenstein][2]. 
 
-Updated to the latest SDK for R20, R21 and S22 by [Kent Barber][3]
+Updated to the latest SDK for R20, R21, S22 and R23 by [Kent Barber][3]
 
 ![](screenshot.png)
 
